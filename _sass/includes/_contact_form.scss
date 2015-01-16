@@ -1,0 +1,25 @@
+#contact_form, .form_row, .form_row>input, .form_row>textarea {
+	width: 100%;
+}
+
+.form_row {
+	height: 50px;
+	border-bottom: 1px solid #eeeeee;
+}
+
+.text {
+	height: 150px;	
+}
+
+.form_row>input, .form_row>textarea {
+	height: 100%;
+}
+
+.form_row>textarea {
+	resize: none;
+}
+
+.form_row>input, .form_row>textarea {
+	border: none;
+	padding: 5px;
+}

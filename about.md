@@ -2,11 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/L6sQn4GyQdSBW7pLgEz7_DSC_0013.JPG"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hello there!
 
-Head over to the theme's Github repo for much more information about Type Theme or to install this theme for your very own Jekyll site.
+My name is Thibaut LE LEVIER.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I’m a soft­ware de­veloper (iOS mostly), and as­pir­ing en­tre­pren­eur.
+
+I’m work­ing on iOS de­vel­op­ment since 2009, I also do some backend de­vel­op­ment (Rails, Sinatra or Node.js) and I know enough about Linux ad­min­is­tra­tion to setup the first server of my next pro­ject.
+
+For now I’m work­ing as a freel­ance con­tractor and I’m based in Paris.
+
+Feel free to [con­tact me](/contact/) if you want to talk about your pro­ject, or if you just want to grab a beer!
