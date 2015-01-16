@@ -1,47 +1,43 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://tibo.github.io" 
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
-  gravatar: # email md5 hash
-  description: "A website with blog posts, and pages." # used by search engines
-  
+  title: Thibaut's blog
+  avatar: 
+  gravatar: 3659d4c9e055611e71278dbfc6b33b67
+  description: "iOS and Ruby developer. Freelance contractor in Paris. Aspiring entrepreneur."
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
   
   # Icons
-  rss: false
+  rss: true
   email_address: # full email address, e.g. "sam@example.com"
   behance:
   bitbucket: 
   dribbble: 
   facebook: 
   flickr: 
-  github: "rohanchandra/type-theme"
+  github: "tibo"
   google_plus: 
   instagram: 
-  linkedin:  # full URL
+  linkedin: "http://linkedin.com/in/tiboll"
   pinterest: 
   reddit: 
   soundcloud: 
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: "tiboll"
   wordpress: 
   youtube: 
   
   # Scripts
-  google_analytics: # tracking id, e.g. "UA-000000-01"
+  google_analytics: UA-58653601-1
   disqus_shortname:
   
   # Localization strings
