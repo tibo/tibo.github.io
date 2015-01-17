@@ -3,17 +3,20 @@
 	<form id="contact_form">
 		<input type="text" name="_gotcha" style="display:none" />
 		<input type="hidden" name="_subject" value="Contact" />
-		<div class="form_row">
+		<div class="form_row form_row_bordered">
 		    <input type="text" name="name" placeholder="Your name">
 		</div>
-		<div class="form_row">
+		<div class="form_row form_row_bordered">
 		    <input type="email" name="_replyto" placeholder="Your email">
 		</div>
-		<div class="form_row text">
+		<div class="form_row text form_row_bordered">
 		    <textarea name="message" placeholder="Your message"></textarea>
 		</div>
 		<div class="form_row">
-		    <input type="submit" value="Send">
+			&nbsp;
+		</div>
+		<div class="form_row">
+		    <input class="contact-form-button" type="submit" value="Send">
 		</div>
 	</form>
 </div>
