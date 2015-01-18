@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GeekTrip à San Francisco
+feature-img: "img/SF2010.JPG"
 ---
 Il y a maintenant un peu plus d’un mois, [Boris](http://bcharp.fr) et moi même
 revenions d’un voyage gagné grace au concours Smartphone organisé par la SNCF

@@ -2,6 +2,7 @@
 layout: post
 title: "My iOS Integration and Deployement setup"
 date: 2014-08-17 00:10
+feature-img: "img/macmini.jpg"
 ---
 
 I planned to write this article for a while now.
