@@ -43,4 +43,8 @@ header {
   .post-content {
     @extend %padding-regular;
   }
+
+  .sharing {
+    padding: 2%;
+  }
 }
