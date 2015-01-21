@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://tibo.github.io" 
+url: "http://blog.lelevier.com" 
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
