@@ -21,8 +21,8 @@ layout: default
       </header>
 
       <div class="excerpt">
-        {{ post.content | strip_html | truncatewords:75 }}
-
+        <p>{{ post.content | strip_html | truncatewords:75 }}</p>
+        
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
       
