@@ -3,7 +3,7 @@ baseurl: ""
 url: "http://blog.lelevier.com" 
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Thibaut's blog
   avatar: 
@@ -61,3 +61,6 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
+gems: 
+  - jekyll-paginate
+  - jekyll-gist
